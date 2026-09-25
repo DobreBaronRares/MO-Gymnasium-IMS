@@ -12,3 +12,4 @@ import mo_gymnasium.envs.mountain_car
 import mo_gymnasium.envs.mujoco
 import mo_gymnasium.envs.resource_gathering
 import mo_gymnasium.envs.water_reservoir
+import mo_gymnasium.envs.ims
